@@ -1,0 +1,46 @@
+_repo: The-WishA-Novel_33886
+_version: 0.1.0
+alternative_title: Der Wunsch. English
+contributor:
+  author_of_introduction:
+    agent_name: Lee, Elizabeth
+    birthdate: &id001 1857
+    deathdate: 1920
+    gutenberg_agent_id: '35024'
+    url: http://www.gutenberg.org/2009/agents/35024
+  translator:
+    agent_name: Henkel, Lily
+    gutenberg_agent_id: '36817'
+    url: http://www.gutenberg.org/2009/agents/36817
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sudermann, Hermann
+    aliases:
+    - Sudermann, Herman
+    - Sudermann, H. (Hermann)
+    - Sunderman, Hermann
+    birthdate: *id001
+    deathdate: 1928
+    gutenberg_agent_id: '2769'
+    url: http://www.gutenberg.org/2009/agents/2769
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_Sudermann
+description: ''
+gutenberg_issued: '2010-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33886'
+  lccn: 07029154
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suicide victims -- Fiction'
+- !lcsh 'Love stories, German'
+- !lcsh 'Sisters -- Fiction'
+- !lcc 'PT'
+title: 'The Wish: A Novel'
+url: http://www.gutenberg.org/ebooks/33886
