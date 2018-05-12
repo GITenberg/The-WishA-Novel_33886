@@ -4,7 +4,7 @@ alternative_title: Der Wunsch. English
 contributor:
   author_of_introduction:
     agent_name: Lee, Elizabeth
-    birthdate: &id001 1857
+    birthdate: 1857
     deathdate: 1920
     gutenberg_agent_id: '35024'
     url: http://www.gutenberg.org/2009/agents/35024
@@ -22,12 +22,14 @@ creator:
     - Sudermann, Herman
     - Sudermann, H. (Hermann)
     - Sunderman, Hermann
-    birthdate: *id001
+    birthdate: 1857
     deathdate: 1928
     gutenberg_agent_id: '2769'
     url: http://www.gutenberg.org/2009/agents/2769
     wikipedia: http://en.wikipedia.org/wiki/Hermann_Sudermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33886#The-WishA-Novel
 gutenberg_issued: '2010-10-28'
 gutenberg_type: Text
 identifiers:
